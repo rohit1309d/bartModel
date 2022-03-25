@@ -1,0 +1,1724 @@
+[
+    {
+        "raw_words": "Index to Consolidated Financial Statements   Page Consolidated Statements of Operations for the years ended September  28,   2019,  September  29,   2018  and September  30,   2017     29  Consolidated Statements of Comprehensive Income for the years ended September  28,   2019,  September  29,   2018  and September  30,   2017     30  Consolidated Balance Sheets as of September  28,   2019  and September  29,   2018     31  Consolidated Statements of Shareholders\u2019 Equity for the years ended September  28,   2019,  September  29,   2018  and September  30,   2017     32  Consolidated Statements of Cash Flows for the years ended September  28,   2019,  September  29,   2018  and September  30,   2017     33  Notes to Consolidated Financial Statements    34  Selected Quarterly Financial Information (Unaudited)    55  Reports of Independent Registered Public Accounting Firm    56",
+        "words": [
+            "Index",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "Page",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Operations",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "28",
+            ",",
+            "2019",
+            ",",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "and",
+            "September",
+            "30",
+            ",",
+            "2017",
+            "29",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "28",
+            ",",
+            "2019",
+            ",",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "and",
+            "September",
+            "30",
+            ",",
+            "2017",
+            "30",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "as",
+            "of",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "and",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "31",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Shareholders",
+            "\u2019",
+            "Equity",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "28",
+            ",",
+            "2019",
+            ",",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "and",
+            "September",
+            "30",
+            ",",
+            "2017",
+            "32",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "28",
+            ",",
+            "2019",
+            ",",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "and",
+            "September",
+            "30",
+            ",",
+            "2017",
+            "33",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "34",
+            "Selected",
+            "Quarterly",
+            "Financial",
+            "Information",
+            "(",
+            "Unaudited",
+            ")",
+            "55",
+            "Reports",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "56"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 21,
+                "to": 22,
+                "polarity": "NEG",
+                "term": [
+                    "29"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 26,
+                "to": 27,
+                "polarity": "NEG",
+                "term": [
+                    "30"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 68,
+                "to": 69,
+                "polarity": "NEG",
+                "term": [
+                    "31"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 93,
+                "to": 94,
+                "polarity": "NEG",
+                "term": [
+                    "32"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 117,
+                "to": 118,
+                "polarity": "NEG",
+                "term": [
+                    "33"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 123,
+                "to": 124,
+                "polarity": "NEG",
+                "term": [
+                    "34"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 131,
+                "to": 132,
+                "polarity": "NEG",
+                "term": [
+                    "55"
+                ]
+            },
+            {
+                "index": 7,
+                "from": 139,
+                "to": 140,
+                "polarity": "NEG",
+                "term": [
+                    "56"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Table of Contents       Page Management\u2019s Assessment of Internal Controls Over Financial Statements  98  Report of Independent Registered Public Accounting Firm  99  Consolidated Financial Statements:   Consolidated balance sheets  101  Consolidated statements of income  102  Consolidated statements of comprehensive income  103  Consolidated statements of changes in shareholders\u2019 equity  104  Consolidated statements of cash flows  105  Notes to consolidated financial statements  106",
+        "words": [
+            "Table",
+            "of",
+            "Contents",
+            "Page",
+            "Management",
+            "\u2019",
+            "s",
+            "Assessment",
+            "of",
+            "Internal",
+            "Controls",
+            "Over",
+            "Financial",
+            "Statements",
+            "98",
+            "Report",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "99",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "balance",
+            "sheets",
+            "101",
+            "Consolidated",
+            "statements",
+            "of",
+            "income",
+            "102",
+            "Consolidated",
+            "statements",
+            "of",
+            "comprehensive",
+            "income",
+            "103",
+            "Consolidated",
+            "statements",
+            "of",
+            "changes",
+            "in",
+            "shareholders",
+            "\u2019",
+            "equity",
+            "104",
+            "Consolidated",
+            "statements",
+            "of",
+            "cash",
+            "flows",
+            "105",
+            "Notes",
+            "to",
+            "consolidated",
+            "financial",
+            "statements",
+            "106"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 15,
+                "to": 16,
+                "polarity": "NEG",
+                "term": [
+                    "98"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 23,
+                "to": 24,
+                "polarity": "NEG",
+                "term": [
+                    "99"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 31,
+                "to": 32,
+                "polarity": "NEG",
+                "term": [
+                    "101"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 36,
+                "to": 37,
+                "polarity": "NEG",
+                "term": [
+                    "102"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 42,
+                "to": 43,
+                "polarity": "NEG",
+                "term": [
+                    "103"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 51,
+                "to": 52,
+                "polarity": "NEG",
+                "term": [
+                    "104"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 57,
+                "to": 58,
+                "polarity": "NEG",
+                "term": [
+                    "105"
+                ]
+            },
+            {
+                "index": 7,
+                "from": 63,
+                "to": 64,
+                "polarity": "NEG",
+                "term": [
+                    "106"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Page Reports of Independent Registered Public Accounting Firm  78  Consolidated Financial Statements: Consolidated Balance Sheets  82  Consolidated Statements of Income  83  Consolidated Statements of Comprehensive Income  84  Consolidated Statements of Stockholders' Equity  85  Consolidated Statements of Cash Flows  86  Notes to Consolidated Financial Statements  88",
+        "words": [
+            "Page",
+            "Reports",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "78",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "82",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Income",
+            "83",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "84",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Stockholders",
+            "'",
+            "Equity",
+            "85",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "86",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "88"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 9,
+                "to": 10,
+                "polarity": "NEG",
+                "term": [
+                    "78"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 17,
+                "to": 18,
+                "polarity": "NEG",
+                "term": [
+                    "82"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 22,
+                "to": 23,
+                "polarity": "NEG",
+                "term": [
+                    "83"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 28,
+                "to": 29,
+                "polarity": "NEG",
+                "term": [
+                    "84"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 35,
+                "to": 36,
+                "polarity": "NEG",
+                "term": [
+                    "85"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 41,
+                "to": 42,
+                "polarity": "NEG",
+                "term": [
+                    "86"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 47,
+                "to": 48,
+                "polarity": "NEG",
+                "term": [
+                    "88"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "43",
+        "words": [
+            "43"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 1,
+                "to": 2,
+                "polarity": "NEG",
+                "term": [
+                    "43"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Reports of Independent Registered Public Accounting Firm  56      Consolidated Financial Statements:       Consolidated Balance Sheets  58      Consolidated Statements of Income  59      Consolidated Statements of Comprehensive Income  60      Consolidated Statements of Stockholders' Equity  61      Consolidated Statements of Cash Flows  62      Notes to Consolidated Financial Statements  64",
+        "words": [
+            "Reports",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "56",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "58",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Income",
+            "59",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "60",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Stockholders",
+            "'",
+            "Equity",
+            "61",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "62",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "64"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 8,
+                "to": 9,
+                "polarity": "NEG",
+                "term": [
+                    "56"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 16,
+                "to": 17,
+                "polarity": "NEG",
+                "term": [
+                    "58"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 21,
+                "to": 22,
+                "polarity": "NEG",
+                "term": [
+                    "59"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 27,
+                "to": 28,
+                "polarity": "NEG",
+                "term": [
+                    "60"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 34,
+                "to": 35,
+                "polarity": "NEG",
+                "term": [
+                    "61"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 40,
+                "to": 41,
+                "polarity": "NEG",
+                "term": [
+                    "62"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 46,
+                "to": 47,
+                "polarity": "NEG",
+                "term": [
+                    "64"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Index to Consolidated Financial Statements Page Consolidated Statements of Operations for the years ended September  25,   2021,  September  26,   2020  and September  28,   2019   29  Consolidated Statements of Comprehensive Income for the years ended September  25,   2021,  September  26,   2020  and September  28,   2019   30  Consolidated Balance Sheets as of September  25,   2021  and September  26,   2020   31  Consolidated Statements of Shareholders\u2019 Equity for the years ended September  25,   2021,  September  26,   2020  and September  28,   2019   32  Consolidated Statements of Cash Flows for the years ended September  25,   2021,  September  26,   2020  and September  28,   2019   33  Notes to Consolidated Financial Statements  34  Reports of Independent Registered Public Accounting Firm  52",
+        "words": [
+            "Index",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "Page",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Operations",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "25",
+            ",",
+            "2021",
+            ",",
+            "September",
+            "26",
+            ",",
+            "2020",
+            "and",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "29",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "25",
+            ",",
+            "2021",
+            ",",
+            "September",
+            "26",
+            ",",
+            "2020",
+            "and",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "30",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "as",
+            "of",
+            "September",
+            "25",
+            ",",
+            "2021",
+            "and",
+            "September",
+            "26",
+            ",",
+            "2020",
+            "31",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Shareholders",
+            "\u2019",
+            "Equity",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "25",
+            ",",
+            "2021",
+            ",",
+            "September",
+            "26",
+            ",",
+            "2020",
+            "and",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "32",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "25",
+            ",",
+            "2021",
+            ",",
+            "September",
+            "26",
+            ",",
+            "2020",
+            "and",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "33",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "34",
+            "Reports",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "52"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 29,
+                "to": 30,
+                "polarity": "NEG",
+                "term": [
+                    "29"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 53,
+                "to": 54,
+                "polarity": "NEG",
+                "term": [
+                    "30"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 68,
+                "to": 69,
+                "polarity": "NEG",
+                "term": [
+                    "31"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 93,
+                "to": 94,
+                "polarity": "NEG",
+                "term": [
+                    "32"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 117,
+                "to": 118,
+                "polarity": "NEG",
+                "term": [
+                    "33"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 123,
+                "to": 124,
+                "polarity": "NEG",
+                "term": [
+                    "34"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 131,
+                "to": 132,
+                "polarity": "NEG",
+                "term": [
+                    "52"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Page Reports of Ernst &amp; Young LLP, Independent Registered Public Accounting Firm  51  Financial Statements: Consolidated Balance Sheets  54  Consolidated Statements of Income  55  Consolidated Statements of Comprehensive Income  56  Consolidated Statements of Stockholders\u2019 Equity  57  Consolidated Statements of Cash Flows  58  Notes to Consolidated Financial Statements  59",
+        "words": [
+            "Page",
+            "Reports",
+            "of",
+            "Ernst",
+            "&",
+            "amp",
+            ";",
+            "Young",
+            "LLP",
+            ",",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "51",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "54",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Income",
+            "55",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "56",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Stockholders",
+            "\u2019",
+            "Equity",
+            "57",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "58",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "59"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 16,
+                "to": 17,
+                "polarity": "NEG",
+                "term": [
+                    "51"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 23,
+                "to": 24,
+                "polarity": "NEG",
+                "term": [
+                    "54"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 28,
+                "to": 29,
+                "polarity": "NEG",
+                "term": [
+                    "55"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 34,
+                "to": 35,
+                "polarity": "NEG",
+                "term": [
+                    "56"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 41,
+                "to": 42,
+                "polarity": "NEG",
+                "term": [
+                    "57"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 47,
+                "to": 48,
+                "polarity": "NEG",
+                "term": [
+                    "58"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 53,
+                "to": 54,
+                "polarity": "NEG",
+                "term": [
+                    "59"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Table of Contents   Page Management\u2019s Assessment of Internal Controls Over Financial Statements  88  Report of Independent Registered Public Accounting Firm  89  Consolidated Financial Statements:   Consolidated balance sheets  90  Consolidated statements of income  91  Consolidated statements of comprehensive income  92  Consolidated statements of changes in shareholders\u2019 equity  93  Consolidated statements of cash flows  94  Notes to consolidated financial statements  94",
+        "words": [
+            "Table",
+            "of",
+            "Contents",
+            "Page",
+            "Management",
+            "\u2019",
+            "s",
+            "Assessment",
+            "of",
+            "Internal",
+            "Controls",
+            "Over",
+            "Financial",
+            "Statements",
+            "88",
+            "Report",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "89",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "balance",
+            "sheets",
+            "90",
+            "Consolidated",
+            "statements",
+            "of",
+            "income",
+            "91",
+            "Consolidated",
+            "statements",
+            "of",
+            "comprehensive",
+            "income",
+            "92",
+            "Consolidated",
+            "statements",
+            "of",
+            "changes",
+            "in",
+            "shareholders",
+            "\u2019",
+            "equity",
+            "93",
+            "Consolidated",
+            "statements",
+            "of",
+            "cash",
+            "flows",
+            "94",
+            "Notes",
+            "to",
+            "consolidated",
+            "financial",
+            "statements",
+            "94"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 15,
+                "to": 16,
+                "polarity": "NEG",
+                "term": [
+                    "88"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 23,
+                "to": 24,
+                "polarity": "NEG",
+                "term": [
+                    "89"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 31,
+                "to": 32,
+                "polarity": "NEG",
+                "term": [
+                    "90"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 36,
+                "to": 37,
+                "polarity": "NEG",
+                "term": [
+                    "91"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 42,
+                "to": 43,
+                "polarity": "NEG",
+                "term": [
+                    "92"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 51,
+                "to": 52,
+                "polarity": "NEG",
+                "term": [
+                    "93"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 57,
+                "to": 58,
+                "polarity": "NEG",
+                "term": [
+                    "94"
+                ]
+            },
+            {
+                "index": 7,
+                "from": 63,
+                "to": 64,
+                "polarity": "NEG",
+                "term": [
+                    "94"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Page Reports of Independent Registered Public Accounting Firm  69  Consolidated Financial Statements:   Consolidated Balance Sheets  73  Consolidated Statements of Income  74  Consolidated Statements of Comprehensive Income  75  Consolidated Statements of Stockholders' Equity  76  Consolidated Statements of Cash Flows  77  Notes to Consolidated Financial Statements  79",
+        "words": [
+            "Page",
+            "Reports",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "69",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "73",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Income",
+            "74",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "75",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Stockholders",
+            "'",
+            "Equity",
+            "76",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "77",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "79"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 9,
+                "to": 10,
+                "polarity": "NEG",
+                "term": [
+                    "69"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 17,
+                "to": 18,
+                "polarity": "NEG",
+                "term": [
+                    "73"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 22,
+                "to": 23,
+                "polarity": "NEG",
+                "term": [
+                    "74"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 28,
+                "to": 29,
+                "polarity": "NEG",
+                "term": [
+                    "75"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 35,
+                "to": 36,
+                "polarity": "NEG",
+                "term": [
+                    "76"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 41,
+                "to": 42,
+                "polarity": "NEG",
+                "term": [
+                    "77"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 47,
+                "to": 48,
+                "polarity": "NEG",
+                "term": [
+                    "79"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Table of Contents       Page Management\u2019s Assessment of Internal Controls Over Financial Statements  99  Report of Independent Registered Public Accounting Firm  100  Consolidated Financial Statements:   Consolidated balance sheets  102  Consolidated statements of income  103  Consolidated statements of comprehensive income  104  Consolidated statements of changes in shareholders\u2019 equity  105  Consolidated statements of cash flows  106  Notes to consolidated financial statements  107",
+        "words": [
+            "Table",
+            "of",
+            "Contents",
+            "Page",
+            "Management",
+            "\u2019",
+            "s",
+            "Assessment",
+            "of",
+            "Internal",
+            "Controls",
+            "Over",
+            "Financial",
+            "Statements",
+            "99",
+            "Report",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "100",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            ":",
+            "Consolidated",
+            "balance",
+            "sheets",
+            "102",
+            "Consolidated",
+            "statements",
+            "of",
+            "income",
+            "103",
+            "Consolidated",
+            "statements",
+            "of",
+            "comprehensive",
+            "income",
+            "104",
+            "Consolidated",
+            "statements",
+            "of",
+            "changes",
+            "in",
+            "shareholders",
+            "\u2019",
+            "equity",
+            "105",
+            "Consolidated",
+            "statements",
+            "of",
+            "cash",
+            "flows",
+            "106",
+            "Notes",
+            "to",
+            "consolidated",
+            "financial",
+            "statements",
+            "107"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 15,
+                "to": 16,
+                "polarity": "NEG",
+                "term": [
+                    "99"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 23,
+                "to": 24,
+                "polarity": "NEG",
+                "term": [
+                    "100"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 31,
+                "to": 32,
+                "polarity": "NEG",
+                "term": [
+                    "102"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 36,
+                "to": 37,
+                "polarity": "NEG",
+                "term": [
+                    "103"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 42,
+                "to": 43,
+                "polarity": "NEG",
+                "term": [
+                    "104"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 51,
+                "to": 52,
+                "polarity": "NEG",
+                "term": [
+                    "105"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 57,
+                "to": 58,
+                "polarity": "NEG",
+                "term": [
+                    "106"
+                ]
+            },
+            {
+                "index": 7,
+                "from": 63,
+                "to": 64,
+                "polarity": "NEG",
+                "term": [
+                    "107"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    },
+    {
+        "raw_words": "Index to Consolidated Financial Statements Page Consolidated Statements of Operations for the years ended September  26  ,  20   20  , September   28  ,  201   9  and September   29  ,  201   8   31  Consolidated Statements of Comprehensive Income for the years ended September  26,   2020,  September  28,   2019  and September  29,   2018   32  Consolidated Balance Sheets as of Septe mber  26,   2020  and September  28,   2019   33  Consolidated Statements of Shareholders\u2019 Equity for the years ended S eptember  26,   2020,  September  28,   2019  and September  29,   2018   34  Consolidated Statements of Cash Flows for the years ended S eptember  26,   2020,  September  28,   2019  and September  29,   2018   35  Notes to Consolidated Financial Statements  36  Selected Quarterly Financial Information (Unaudited)  57  Reports of Independent Registered Public Accounting Firm  59",
+        "words": [
+            "Index",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "Page",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Operations",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "26",
+            ",",
+            "20",
+            "20",
+            ",",
+            "September",
+            "28",
+            ",",
+            "201",
+            "9",
+            "and",
+            "September",
+            "29",
+            ",",
+            "201",
+            "8",
+            "31",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Comprehensive",
+            "Income",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "September",
+            "26",
+            ",",
+            "2020",
+            ",",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "and",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "32",
+            "Consolidated",
+            "Balance",
+            "Sheets",
+            "as",
+            "of",
+            "Septe",
+            "mber",
+            "26",
+            ",",
+            "2020",
+            "and",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "33",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Shareholders",
+            "\u2019",
+            "Equity",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "S",
+            "eptember",
+            "26",
+            ",",
+            "2020",
+            ",",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "and",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "34",
+            "Consolidated",
+            "Statements",
+            "of",
+            "Cash",
+            "Flows",
+            "for",
+            "the",
+            "years",
+            "ended",
+            "S",
+            "eptember",
+            "26",
+            ",",
+            "2020",
+            ",",
+            "September",
+            "28",
+            ",",
+            "2019",
+            "and",
+            "September",
+            "29",
+            ",",
+            "2018",
+            "35",
+            "Notes",
+            "to",
+            "Consolidated",
+            "Financial",
+            "Statements",
+            "36",
+            "Selected",
+            "Quarterly",
+            "Financial",
+            "Information",
+            "(",
+            "Unaudited",
+            ")",
+            "57",
+            "Reports",
+            "of",
+            "Independent",
+            "Registered",
+            "Public",
+            "Accounting",
+            "Firm",
+            "59"
+        ],
+        "aspects": [
+            {
+                "index": 0,
+                "from": 18,
+                "to": 19,
+                "polarity": "NEG",
+                "term": [
+                    "20"
+                ]
+            },
+            {
+                "index": 1,
+                "from": 19,
+                "to": 20,
+                "polarity": "NEG",
+                "term": [
+                    "20"
+                ]
+            },
+            {
+                "index": 2,
+                "from": 24,
+                "to": 25,
+                "polarity": "NEG",
+                "term": [
+                    "201"
+                ]
+            },
+            {
+                "index": 3,
+                "from": 25,
+                "to": 26,
+                "polarity": "NEG",
+                "term": [
+                    "9"
+                ]
+            },
+            {
+                "index": 4,
+                "from": 30,
+                "to": 31,
+                "polarity": "NEG",
+                "term": [
+                    "201"
+                ]
+            },
+            {
+                "index": 5,
+                "from": 31,
+                "to": 32,
+                "polarity": "NEG",
+                "term": [
+                    "8"
+                ]
+            },
+            {
+                "index": 6,
+                "from": 32,
+                "to": 33,
+                "polarity": "NEG",
+                "term": [
+                    "31"
+                ]
+            },
+            {
+                "index": 7,
+                "from": 56,
+                "to": 57,
+                "polarity": "NEG",
+                "term": [
+                    "32"
+                ]
+            },
+            {
+                "index": 8,
+                "from": 16,
+                "to": 17,
+                "polarity": "NEG",
+                "term": [
+                    "26"
+                ]
+            },
+            {
+                "index": 9,
+                "from": 45,
+                "to": 46,
+                "polarity": "NEG",
+                "term": [
+                    "2020"
+                ]
+            },
+            {
+                "index": 10,
+                "from": 72,
+                "to": 73,
+                "polarity": "NEG",
+                "term": [
+                    "33"
+                ]
+            },
+            {
+                "index": 11,
+                "from": 43,
+                "to": 44,
+                "polarity": "NEG",
+                "term": [
+                    "26"
+                ]
+            },
+            {
+                "index": 12,
+                "from": 66,
+                "to": 67,
+                "polarity": "NEG",
+                "term": [
+                    "2020"
+                ]
+            },
+            {
+                "index": 13,
+                "from": 98,
+                "to": 99,
+                "polarity": "NEG",
+                "term": [
+                    "34"
+                ]
+            },
+            {
+                "index": 14,
+                "from": 64,
+                "to": 65,
+                "polarity": "NEG",
+                "term": [
+                    "26"
+                ]
+            },
+            {
+                "index": 15,
+                "from": 87,
+                "to": 88,
+                "polarity": "NEG",
+                "term": [
+                    "2020"
+                ]
+            },
+            {
+                "index": 16,
+                "from": 123,
+                "to": 124,
+                "polarity": "NEG",
+                "term": [
+                    "35"
+                ]
+            },
+            {
+                "index": 17,
+                "from": 129,
+                "to": 130,
+                "polarity": "NEG",
+                "term": [
+                    "36"
+                ]
+            },
+            {
+                "index": 18,
+                "from": 137,
+                "to": 138,
+                "polarity": "NEG",
+                "term": [
+                    "57"
+                ]
+            },
+            {
+                "index": 19,
+                "from": 145,
+                "to": 146,
+                "polarity": "NEG",
+                "term": [
+                    "59"
+                ]
+            }
+        ],
+        "opinions": [
+            {
+                "term": []
+            }
+        ]
+    }
+]
